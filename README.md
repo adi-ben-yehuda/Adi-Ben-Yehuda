@@ -10,6 +10,8 @@
 
 ## Connect with me 📫:
 [<img width="24" alt="image" src="https://user-images.githubusercontent.com/75027826/226171918-be429e7e-d3d7-46ae-842b-8ec634466506.png">
-]()
+](https://www.linkedin.com/in/adi-ben-yehuda1/)
 
 ## Programming Languages 🚀
+[![image](https://user-images.githubusercontent.com/75027826/226171982-d6489988-44a7-41c2-97bc-420f77c682a7.png)
+](https://github.com/adi-ben-yehuda)
