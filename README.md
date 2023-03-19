@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Adi 👋
 
+I'm a 2nd year B.Sc. Computer Science Undergraduate Student, from Bar-Ilan University.
+I'm from Israel, living in Rishon-LeZion.
 
-**adi-ben-yehuda/Adi-Ben-Yehuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✍ You can find my resume [here]()
+💻 You can find my repositories here
+📫 Reach out to me: topazvraham9@gmail.com
 
 Here are some ideas to get you started:
 
