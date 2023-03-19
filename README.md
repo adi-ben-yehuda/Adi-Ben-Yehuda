@@ -1,19 +1,15 @@
-### Hi there, I'm Adi 👋
+### Hi there, I'm Adi Ben Yehuda 👋
 
-I'm a 2nd year B.Sc. Computer Science Undergraduate Student, from Bar-Ilan University.
-I'm from Israel, living in Rishon-LeZion.
+## :woman:🏻‍💻 About Me
 
-✍ You can find my resume [here]()
-💻 You can find my repositories here
-📫 Reach out to me: topazvraham9@gmail.com
+- 🔭 I’m currently  a 2nd year B.Sc. Computer Science Undergraduate Student, from Bar-Ilan University.
+- I love learning new technologies, and deepening my knowledge of technologies I already know
+- ✍ You can find my resume [here]()
+- 💻 You can find my repositories [here](https://github.com/adi-ben-yehuda?tab=repositories)
+- 📫 Reach out to me: adiby2017@gmail.com
 
-Here are some ideas to get you started:
+## Connect with me 📫:
+[<img width="24" alt="image" src="https://user-images.githubusercontent.com/75027826/226171918-be429e7e-d3d7-46ae-842b-8ec634466506.png">
+]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Programming Languages 🚀
