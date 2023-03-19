@@ -3,7 +3,7 @@
 ## :woman:🏻‍💻 About Me
 
 - 🔭 I’m currently  a 2nd year B.Sc. Computer Science Undergraduate Student, from Bar-Ilan University.
-- I love learning new technologies, and deepening my knowledge of technologies I already know
+- I love learning new technologies, and deepening my knowledge of technologies I already know.
 - ✍ You can find my resume [here]()
 - 💻 You can find my repositories [here](https://github.com/adi-ben-yehuda?tab=repositories)
 - 📫 Reach out to me: adiby2017@gmail.com
